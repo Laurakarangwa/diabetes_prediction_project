@@ -154,4 +154,4 @@ jupyter notebook notebooks/diabetes_classification_experiments.ipynb
 ---
 
 ## Citation & Academic References
-Please refer to `final_academic_report.md` for the complete 4,500+ word academic research paper formatted in IEEE style, including detailed theoretical grounding, bias-variance analysis, and 12 peer-reviewed scholarly citations.
+
